@@ -1,4 +1,4 @@
-print("Wassup Buddy!! v10")
+prin("Wassup Buddy!! v10")
 print("Hello Python")
 print("Welcome to my jenkins pages")
 print("Welcome to linux")
